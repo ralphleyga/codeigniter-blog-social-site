@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="0d13f478-9b74-408f-a789-040dee7bd900" kpf_version="4" name="bsim.kpf">
+<file id="be1b1d8c-bc7c-4bde-ad82-d636cfa71eee" idref="a8cf41bd-34f9-4390-85fd-cd0c779208cf" name="messageform.php" url="system/application/views/messageform.php">
+</file>
+<file id="d69a7cc9-3efc-42dd-a75d-6693ef865b8a" idref="a8cf41bd-34f9-4390-85fd-cd0c779208cf" name="message_inbox.php" url="system/application/views/message_inbox.php">
+</file>
+<file id="120a6568-e98b-4276-b53c-a3d22561fe92" idref="dbb3f693-2043-483b-9c4c-f8821ca24370" name="messageform.php" url="system/application/views/messageform.php">
+</file>
+<file id="c0c611dc-543c-4069-83b4-efb3a68b43a4" idref="dbb3f693-2043-483b-9c4c-f8821ca24370" name="message_inbox.php" url="system/application/views/message_inbox.php">
+</file>
+<preference-set idref="0d13f478-9b74-408f-a789-040dee7bd900">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>

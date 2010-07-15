@@ -1,0 +1,33 @@
+hello world...
+
+system required: php, mysql, apache
+
+instruction:
+1.  put the folder in the www root.settings blogsakan\system\application\config\config.php
+
+$config['base_url']	= "http://localhost/blogsakan/";
+
+2.  database:D:\PHP\blogsakan\system\application\config\dagtabase.php
+
+
+$db['default']['hostname'] = "localhost";
+$db['default']['username'] = "root";
+$db['default']['password'] = "";
+$db['default']['database'] = "bsim";
+$db['default']['dbdriver'] = "mysql";
+$db['default']['dbprefix'] = "";
+$db['default']['pconnect'] = TRUE;
+$db['default']['db_debug'] = TRUE;
+$db['default']['cache_on'] = FALSE;
+$db['default']['cachedir'] = "";
+$db['default']['char_set'] = "utf8";
+$db['default']['dbcollat'] = "utf8_general_ci";
+
+
+visit: rleyga.phpnet.us
+
+vote my system...
+check www.blogsakan.phpnet.us to see how it workk..
+
+this is a beta version....
+email me at: ralphleyga@yahoo.com
